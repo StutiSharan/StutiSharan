@@ -17,7 +17,6 @@
 
 ### 💻 Tech Stack & Tools
 
-```bash
 Languages: JavaScript | TypeScript | C++ | HTML | CSS
 Frontend: React | Redux | Tailwind CSS | Bootstrap | Vite
 Backend: Node.js | Express.js | MongoDB | REST APIs
@@ -26,34 +25,25 @@ Tools: Git | GitHub | Postman | Render | Netlify | VSCode
 ---
 
 ## 🧠 Core Skills
-
-- **Full-Stack Web Development**
-- **RESTful APIs & Authentication**
-- **MongoDB, Mongoose & CRUD**
-- **JWT, Role-Based Access Control**
-- **Real-Time Features (Socket.io)**
-- **System Design Principles (SOLID, OOPs, Design Patterns)**
-
----
+- Full-Stack Web Development  
+- RESTful APIs & Authentication  
+- MongoDB, Mongoose & CRUD  
+- JWT, Role-Based Access Control  
+- Real-Time Features (Socket.io)  
+- System Design Principles (SOLID, OOPs, Design Patterns)  
 
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| 🏠 **FindMyHome** | A modern real estate platform with search filters, interactive maps, JWT auth, property comparison, and favorites | React, Tailwind CSS, Node.js, MongoDB | [Live](https://findmyhome-client.vercel.app) · [Code](https://github.com/StutiSharan/FindMyHome) |
-| 📅 **Holiday Calendar App** | Calendar that shows public holidays using Nager API, with country & year selection, and holiday modals | React, Tailwind, Nager API | [Live](https://calendar-holidays.netlify.app) · [Code](https://github.com/StutiSharan/calendar-app) |
-| 💬 **Smart Travel Assistant** | Route planner using strategy pattern with route suggestions based on distance or time | TypeScript, OOP | [Code](https://github.com/StutiSharan/strategy-route-planner) |
-
----
+| 🏠 **FindMyHome** | A modern real estate platform with search filters, interactive maps, JWT auth, property comparison, and favorites | React,Express.js,Tailwind CSS, Node.js, MongoDB | [Live](https://findmyhome41.netlify.app/) · [Code](https://github.com/StutiSharan/Stuti-Repo/tree/main/Property%20Listing) |
+| 🧠 **MemHub** | A personal memory vault for saving & organizing notes with categories, markdown support & JWT auth | React, Tailwind CS, Firebase | [Live](https://jokejunction-41.netlify.app/) · [Code](https://github.com/StutiSharan/MemeHub-Project-) |
+| 🌍 **Community Platform** | A platform where users can post, comment, like, and interact within a moderated space | HTML, CSS, JS | [Live](https://community-41.netlify.app/) · [Code](https://github.com/StutiSharan/community-Platform) |
 
 ## 🔗 Portfolio & Contact
-
-- 🌐 **Portfolio**: [stutisharan.netlify.app](https://stutisharan.netlify.app)
-- 📫 **Email**: stutisharan2001@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/stutisharan](https://linkedin.com/in/stutisharan)
-- 🧑‍💻 **LeetCode**: [leetcode.com/stutisharan](https://leetcode.com/stutisharan)
-
----
+- 🌐 **Portfolio:** https://stutisharan.github.io/portfolio/  
+- 📫 **Email:** stutisharan0@gmail.com  
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/stuti-sharan-1b0a82310/)  
 
 ## 📈 GitHub Stats
 
