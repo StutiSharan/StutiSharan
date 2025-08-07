@@ -18,7 +18,7 @@
 ### 💻 Tech Stack & Tools
 
 Languages: JavaScript | TypeScript | C++ | HTML | CSS
-Frontend: React | Redux | Tailwind CSS | Bootstrap | Vite
+Frontend: React | Redux | Tailwind CSS | Vite
 Backend: Node.js | Express.js | MongoDB | REST APIs
 Tools: Git | GitHub | Postman | Render | Netlify | VSCode
 
