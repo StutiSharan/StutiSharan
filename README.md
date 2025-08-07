@@ -50,5 +50,5 @@ Tools: Git | GitHub | Postman | Render | Netlify | VSCode
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StutiSharan&show_icons=true&theme=default" alt="Stuti GitHub stats"/>
   <br />
-  <img src="hhttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StutiSharan&theme=default" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StutiSharan&theme=default" alt="Streak Stats"/>
 </p>
