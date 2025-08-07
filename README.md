@@ -37,7 +37,7 @@ Tools: Git | GitHub | Postman | Render | Netlify | VSCode
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
 | 🏠 **FindMyHome** | A modern real estate platform with search filters, interactive maps, JWT auth, property comparison, and favorites | React,Express.js,Tailwind CSS, Node.js, MongoDB | [Live](https://findmyhome41.netlify.app/) · [Code](https://github.com/StutiSharan/Stuti-Repo/tree/main/Property%20Listing) |
-| 🧠 **MemHub** | A personal memory vault for saving & organizing notes with categories, markdown support & JWT auth | React, Tailwind CS, Firebase | [Live](https://jokejunction-41.netlify.app/) · [Code](https://github.com/StutiSharan/MemeHub-Project-) |
+| 🧠 **MemHub** | Generate and share memes with others using templates and create own templates. | React, Tailwind CS, Firebase | [Live](https://jokejunction-41.netlify.app/) · [Code](https://github.com/StutiSharan/MemeHub-Project-) |
 | 🌍 **Community Platform** | A platform where users can post, comment, like, and interact within a moderated space | HTML, CSS, JS | [Live](https://community-41.netlify.app/) · [Code](https://github.com/StutiSharan/community-Platform) |
 
 ## 🔗 Portfolio & Contact
