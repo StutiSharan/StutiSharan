@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Full-Stack Developer on a Mission to Build Meaningful Web Experiences</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+
 </p>
 
 
