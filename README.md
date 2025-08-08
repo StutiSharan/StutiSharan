@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer on a Mission to Build Meaningful Web Experiences</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StutiSharan&label=Profile%20views&color=0e75b6&style=flat" alt="StutiSharan" />
+  <img src="https://cdn.dribbble.com/users/254870/screenshots/17076390/media/9a209ce50a29e1c0c617b6a3d3a07f59.gif" width="300" />
 </p>
 
 <p align="center">
