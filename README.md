@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=StutiSharan&label=Profile%20views&color=0e75b6&style=flat" alt="StutiSharan" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+</p>
+
 ---
 
 ### 👩‍🎓 My Tech Journey
@@ -17,14 +21,21 @@
 
 ### 💻 Tech Stack & Tools
 
-Languages: JavaScript | TypeScript | C++ | HTML | CSS
-Frontend: React | Redux | Tailwind CSS | Vite
-Backend: Node.js | Express.js | MongoDB | REST APIs
-Tools: Git | GitHub | Postman | Render | Netlify | VSCode
+Languages: JavaScript | TypeScript | C++ | HTML | CSS  
+Frontend: React | Redux | Tailwind CSS | Vite  
+Backend: Node.js | Express.js | MongoDB | REST APIs  
+Tools: Git | GitHub | Postman | Render | Netlify | VSCode  
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="250" />
+</p>
 
 ---
 
 ## 🧠 Core Skills
+
 - Full-Stack Web Development  
 - RESTful APIs & Authentication  
 - MongoDB, Mongoose & CRUD  
@@ -32,23 +43,34 @@ Tools: Git | GitHub | Postman | Render | Netlify | VSCode
 - Real-Time Features (Socket.io)  
 - System Design Principles (SOLID, OOPs, Design Patterns)  
 
+---
+
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
 | 🏠 **FindMyHome** | A modern real estate platform with search filters, interactive maps, JWT auth, property comparison, and favorites | React,Express.js,Tailwind CSS, Node.js, MongoDB | [Live](https://findmyhome41.netlify.app/) · [Code](https://github.com/StutiSharan/Stuti-Repo/tree/main/Property%20Listing) |
-| 🧠 **MemHub** | Generate and share memes with others using templates and create own templates. | React, Tailwind CS, Firebase | [Live](https://jokejunction-41.netlify.app/) · [Code](https://github.com/StutiSharan/MemeHub-Project-) |
+| 🧠 **MemHub** | Generate and share memes with others using templates and create own templates. | React, Tailwind CSS, Firebase | [Live](https://jokejunction-41.netlify.app/) · [Code](https://github.com/StutiSharan/MemeHub-Project-) |
 | 🌍 **Community Platform** | A platform where users can post, comment, like, and interact within a moderated space | HTML, CSS, JS | [Live](https://community-41.netlify.app/) · [Code](https://github.com/StutiSharan/community-Platform) |
 
+---
+
 ## 🔗 Portfolio & Contact
-- 🌐 **Portfolio:** https://stutisharan.github.io/portfolio/  
+
+- 🌐 **Portfolio:** [stutisharan.github.io/portfolio](https://stutisharan.github.io/portfolio/)  
 - 📫 **Email:** stutisharan0@gmail.com  
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/stuti-sharan-1b0a82310/)  
+- 💼 **LinkedIn:** [Stuti Sharan](https://www.linkedin.com/in/stuti-sharan-1b0a82310/)  
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StutiSharan&show_icons=true&theme=default" alt="Stuti GitHub stats"/>
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StutiSharan&theme=default" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StutiSharan&theme=default" alt="Summary Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="280" />
 </p>
